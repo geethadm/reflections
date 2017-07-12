@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+it creates a .git file which is used to track the various versions created of all the files in that repository and makes this the master branch
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area contains the files that WILL be committed to the repository.. whereas the working directory contains ALL the files in that dir which neednt all be a part of the repository yet.. 
+
