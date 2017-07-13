@@ -4,3 +4,6 @@ it creates a .git file which is used to track the various versions created of al
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area contains the files that WILL be committed to the repository.. whereas the working directory contains ALL the files in that dir which neednt all be a part of the repository yet.. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+Once any logial change is made to a particular file, add it to the staging area.. 
+
